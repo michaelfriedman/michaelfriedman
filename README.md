@@ -17,5 +17,3 @@ I'm a software engineering consultant, focusing on fullstack serverless web appl
 🔆 &nbsp; Based in Los Angeles
 
 📧 &nbsp; michaelfriedman at hey dot com
-
-**Currently Open to New Opportunities**
