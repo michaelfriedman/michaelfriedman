@@ -12,7 +12,7 @@ I'm a software engineering consultant, focusing on fullstack serverless web appl
 
 🌱 &nbsp; Experienced Working with Greenfield Startups
 
-👨‍🎓 &nbsp; Graduated from Galvanize/HackReactor Bootcamp in 2017
+👨‍🎓 &nbsp; Graduated from Galvanize's HackReactor Software Engineering Immersive in 2017
 
 🍎 &nbsp; Enjoys Mentoring and Working with Juniors
 
