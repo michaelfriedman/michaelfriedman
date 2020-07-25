@@ -6,6 +6,8 @@ I'm a software engineering consultant, focusing on fullstack serverless web appl
 
 ⚛️ &nbsp; I do all things JavaScript, but spend most my time working with React.
 
+📝 &nbsp; I'm keeping a [blog](https://michaels.blog) and will be posting every week moving forward.
+
 ☁️ &nbsp; AWS Certified Developer Associate
 
 🌱 &nbsp; Experienced Working with Greenfield Startups
