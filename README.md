@@ -14,7 +14,7 @@ I'm a software engineering consultant, focusing on fullstack serverless web appl
 
 👨‍🎓 &nbsp; Graduated from Galvanize's Hack Reactor Software Engineering Immersive in 2017
 
-🍎 &nbsp; Enjoys Mentoring and Working with Juniors
+🍎 &nbsp; I enjoy mentoring and working with junior devs.
 
 🔆 &nbsp; Based in Los Angeles
 
