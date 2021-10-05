@@ -14,4 +14,4 @@ I'm a software engineering consultant, focusing on fullstack serverless web appl
 
 🍎 &nbsp; I enjoy mentoring and working with junior devs.
 
-🔆 &nbsp; Based in Los Angeles
+🏙️ &nbsp; Based in Seattle
