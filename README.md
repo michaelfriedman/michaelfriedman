@@ -14,4 +14,4 @@ I'm a software engineering consultant, focusing on web applications built with R
 
 🍎 &nbsp; I enjoy mentoring and working with junior devs.
 
-🏙️ &nbsp; Based in Seattle
+🏙️ &nbsp; Based in the USA 🇺🇸
