@@ -13,5 +13,3 @@ I'm a software engineering consultant, focusing on web applications built with R
 👨‍🎓 &nbsp; Graduated from Galvanize's Hack Reactor Software Engineering Immersive in 2017
 
 🍎 &nbsp; I enjoy mentoring and working with junior devs.
-
-🏙️ &nbsp; Based in the USA 🇺🇸
